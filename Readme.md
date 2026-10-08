@@ -3,6 +3,7 @@ A simple text-based game made with Python.
 
 
 ## Objectives 🎯
+
 Explore Helsinki, collect litter, and recycle it correctly.
 Earn 50 points and become a Helsinki Eco Hero! ♻️🌱
 
@@ -35,11 +36,17 @@ Win and Game Over screens
 
 ## Files
 main.py – starts the game
+
 game.py – controls the game
+
 player.py – stores player information
+
 locations.py – game locations
+
 items.py – recyclable items
+
 events.py – random events
+
 save_manager.py – saves and loads the game
 
 ## How to play
